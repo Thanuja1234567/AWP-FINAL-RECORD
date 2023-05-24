@@ -1,0 +1,210 @@
+
+TABLE OF CONTENTS
+ABSTRACT
+1.INTRODUCTION
+1.1.PURPOSE
+1.2.SCOPE
+1.3.REFERENCES
+2.FLOWCHART
+3.FEATURES
+3.1. HOME PAGE
+3.2. ACCOUNT REGISTRATION
+3.2.1. DETAILS
+3.3. ACCOUNT LOGIN
+3.4. SEARCH
+3.5. BOOKING
+3.5.1 DESIGN PLAN FOR GOKARNA TRIP
+3.6. CONTACT US
+3.7.ACCOUNT LOGOUT
+4.WORKING
+4.1.USER INTERFERENCE
+4.2. HARDWARE INTERFRENCE
+4.3. SOFTWARE INTERFRENCE
+5.EXTERNAL INTERFERENCE
+5.1.USER INTERFERENCE
+5.2. HARDWARE INTERFRENCE
+5.3. SOFTWARE INTERFRENCE
+5.4. COMMUNICATION INTERFRENCE
+6.OUTPUTS 
+7.CONCLUSION
+8.REFERENCES
+
+ABSTRACT:
+The term smart tourism has become extremely popular in the last decade. The study explores the smart tourism destinations. The purpose of this paper is to review the existing literature on tourist places in different states of  India In fact smart cities act as a ladder for the establishment of smart tourism destinations. Smart tourism destinations are smart cities which utilize the information technology and innovations to enable pleasure, and experiences for the tourist.
+Access to relevant and accurate information is at the heart of tourism, more so in this era of the Internet information overload has become a prevalent phenomenon and as such a serious issue for those seeking for appropriate information. Furthermore, various researches have been carried out on how to make information on tourism website more effective. Intelligent tourism management system tries to bridge the gap by noting what a tourist perceives as relevant, in terms of content pertaining to tourism products in tourism websites. This study focuses mainly on content because it is seen as the key factor associated with an effective website. Hence, the aim of this research entails the design and implementation of an intelligent platform that will assist tourists in gaining access to information on tourist locations in India and out of India. In view of the forgoing, the system was implemented using Rational Unified Process as the adopted software development process, whereas HTML and PHP were the implementation tools used in the development of the system. Upon completion, the system was able to provide information by fetching information from the web pertaining to the subject of interest to assist tourists in decision making process. It was also able to act intelligently by using hybrid recommendation technique to recommend tourist locations based on their preference.
+
+Keywords: Tourism; Intelligent; Tourism Management; System.
+
+
+
+
+
+
+
+
+
+
+
+
+1.INTRODUCTION:
+Over the years, tourism has continued to gain massive interest at a global scale. It is a major foreign exchange earner for a good number of advanced and emerging economies. It is also true that information explosion makes it cumbersome times to access relevant information to enhance decision making. This has given rise to the emergence of intelligent systems or mechanisms that facilitate quick access to relevant content found in the Internet .
+For developing countries like India, tourism is one of the untapped but potentially big income generator. There are about so many tourist destinations that spread across the 36 states of the federal republic of india. Whereas some exist naturally, others are manmade . In this era that has witnessed rapid advances in information technology, information overload has become a serious problem to those seeking for information online. Recently, intelligent search mechanisms have been deployed on the web that shows that the problem of information overload can be partially eliminated by providing a platform with more intelligence to assist tourists in the search for relevant information .
+In the aspect of tourism, Internet and web technologies have made more readily available information on tourist locations, accommodations, transportation, shopping, food, festivals, and other attractions, thus improving tourism experience . The goal of this research is to design and implement intelligent platform that will aid tourists in India to have access to information on tourist locations thus help fasten their decision making process.
+1.1 PURPOSE
+The purpose of a smart tourist guide is to enhance the tourist experience by providing relevant and up-to-date information that is tailored to the individual's interests, preferences,needs and to know the directions for different places in our country .
+It helps the visitors  to plan their itinerary and navigate around the destination, saving time and effort compared to traditional guidebooks or online research. This can provide visitors with real-time information about events, closures, and other important updates that may affect their travel plans.
+1.2 SCOPE
+The scope for a smart tourist guide is vast and ever-evolving, as technology and the needs of travelers continue to change. This can offer immersive and interactive experiences that allow travelers to explore and learn about destinations in new and exciting ways.
+Tourist guide  can continue to improve multilingual support, making it easier for travelers to access information and services in their preferred language.
+Smart tourist guides can integrate social media and user-generated content, allowing travelers to share their experiences and recommendations with others and connect with locals and fellow travelers.
+
+
+1.3 REFERENCES
+The following materials are used in the website
+1.	Visual studio for writing the code
+2.	Html server for showing the results
+
+2.FLOW CHART
+
+
+
+
+
+
+
+
+
+ 
+
+3.FEATURES
+It  is possible to create a user-friendly, visually appealing, and interactive guide that provides users with relevant and personalized information to enhance their travel experience.
+3.1 HOMEPAGE
+In this home page we will get to know about all the places in which our website provide . there will navigation bars for visiting all the website in out project. We can see  google maps which shows the direction for all the places in india.
+
+3.2 ACCOUNT REGISTRATION
+The registration function shall allow users to create secure accounts. The account will track the user’s name and password. This provides security to the account member by setting up an account that is password protected. This also offers convenience so the user only has to enter the information listed above once and then it is stored in the account.
+3.1.1 DETAILS
+This website will ask you to enter your information and which place you want to visit in india and the budget plans for all the tourist places in every state in india .so that the visitors can plan according to the budget .
+3.3 ACCOUNT LOGIN
+The account login function shall allow account members to enter their username and password. Once verified, users will be able to access all the places in our website and budget for every 3 days.This provides a method by which the user can access the desired operations.
+
+3.4 SEARCH
+The search function shall offer users the ability to search all the wounderful  places in india. This offers a way to find  place if the user does not have complete information about it. It also provides price and availability information.
+3.5 BOOKING
+If you like the place and the city you can book the slots  and can block the tickets  by paying the money as per the  budget plan  using the information  which is provided in the website.
+
+3.5.1 DESIGN PLAN FOR GOKARNA TRIP
+It is a 3 Days plan  and we have to stay 2 nights
+FIXED PRICE- 1999/- per person
+PLACES COVERED:
+1) VIBHUTI WATERFALLS
+2) BELEKAN BEACH
+3) PARADISE BEACH
+4) HALF MOON BEACH
+5) SMALL HELL BEACH
+6) OM BEACH
+7) GOKARNA BEACH COTTAGE
+8) MURUDESHWAR
+9) DANDELI RIVERSIDE RESORT
+
+DAY 1:
+1.start from Hubli railway station
+2.Reach vibhuti waterfalls
+3.start to gokarna beaches
+4.complete your trekking and start to our stay.
+
+DAY 2:
+1.get ready, have breakfast and go for Murdeshwar darshan
+2.start to Mirjan fort  and have lunch and start to Dandeli
+3.reach Dandeli, enjoy DJ music, rain dance, bonfire.
+DAY 3:
+1.have breakfast and start to watersports
+2. start to Hubli railway and catch your train.
+3.6 CONTACT US
+The contact us function shall give users the store a telephone number, email address. This helps the user gain trust in  the tourism management by showing how easy it is to have person-to-person contact with tourist   management employee.
+3.7.ACCOUNT LOGOUT
+The account logout function shall allow account members to exit their account for security purposes. This allows account members to exit their accounts, and prevent others from
+accesing it.
+4.WORKING
+4.1.REQUIREMENTS
+Download and install any local web server such as visual studio code for execution.
+4.2.SYSTEM INSTALLATION/SETUP
+1.	Open  your visual studio code  .
+2.	Extract the downloaded source code zip file.
+3.	Create a folder with  any of name .
+4.	Open the folder and create a new file with some name .
+5.	Type the code and understand the process of execution of the code.
+6.	Visualise the output by pressing ctrl+alt+p.
+4.3.WORKING ON WEBSITE
+The  smart tourist guide website will work functionally once the user have created user login id, since it makes easier to store the details of the user and their history as well. Once the user is done with creating login id, they can search their specific places and location  under different categories which are displayed on the  home page of the website. Then they can add the convenient  state  once they are done with adding the required places.Before proceeding to pay they can review their slot and they can remove  the place which they don’t need or the  place which is added by mistake. At last, the user can proceed for the payment from the  budget plan by adding their  home address and the card credential which will be secured with the website.
+
+
+5.EXTERNAL INTERFERENCE
+
+5.1SYSTEM INTERFERENCE
+The system will have interference if the localhost is not connected to the MySQL and Apache server before opening the website.
+This can be overcome by activating the webserver in xampp application and writing the correct URL in google
+
+5.2USER INTERFERENCE
+•	There are two different types of user interference. The first one is the internet connection. If proper internet/Wi-Fi connection is not provided then there will be buffering while login or adding books in cart.
+•	The second interference would be the login credential. If proper login credential is not provided then the person might not be allowed to book  from the website
+
+5.3HARDWARE INTERFERENCE
+There is no special hardware interference
+
+5.4SOFTWARE INTERFERENCE
+There is no special hardware interference
+
+5.5COMMUNICATION INTERFERENCE
+There is no special communication interference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.OUTPUT OF OUR WEBSITE
+1.This is the home page of our website
+
+2.You can explore all the pages of our website  directly from here.
+ 
+
+
+3.After filling all the details you are entered to see all the places which our tourism management provides in our website in india and out of india
+ 
+
+4.We can see that there are some  budget plans for 3 days  per person  and rating  is also provided within the budget plan.
+ 
+
+
+
+5.You can see that about the company and contacts of company.
+ 
+
+6.Overview 
+ 
+
+
+
+CONCLUSION:
+From this project we learnt how to build a website using html, css  and javascript.  A smart tourist guide can greatly enhance the travel experience for visitors by providing personalized and real-time information, recommendations, and assistance. With the use of advanced technologies such as artificial intelligence, natural language processing, and location-based services, a smart tourist guide can offer tailored suggestions for activities, attractions, and accommodations based on the traveler's preferences and interests.
+Moreover, a smart tourist guide can help tourists navigate unfamiliar territories and overcome language barriers, making travel less stressful and more enjoyable. It can also provide useful insights into local culture, history, and customs, thereby enriching the travel experience.
+The development of a smart tourist guide has the potential to revolutionize the tourism industry and offer new opportunities for tourism businesses to engage with their customers. As technology continues to advance, the potential for smart tourist guides to provide even more personalized and seamless experiences for travelers will only continue to grow.
+
+REFERENCES
+1.https://jmacura.github.io/Smart-tourist-guide/
+2.https://github.com/pankajmnnit/Smart-Tourist-Guide
+3. https://github.com/topics/tourism-website
